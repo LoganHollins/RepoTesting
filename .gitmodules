@@ -1,0 +1,3 @@
+[submodule "Rhythmic_Tracks"]
+	path = Rhythmic_Tracks
+	url = git@github.com:LoganHollins/Rhythmic_Tracks.git
